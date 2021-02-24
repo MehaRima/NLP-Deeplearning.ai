@@ -40,10 +40,7 @@ Once you enrolled to the course, you are invited to join a slack workspace for t
 Please join the Slack workspace by going to the following link [deeplearningai-nlp.slack.com](deeplearningai-nlp.slack.com)
 This Slack workspace includes all courses of this specialization.
 
-## Contact Information
-- Twitter: [@IbrahimJelliti](https://twitter.com/IbrahimJelliti)
-- LinkedIn: [@ijelliti](https://www.linkedin.com/in/ijelliti/)
-- the specialization slack channel:  @ibrahim 
+
 
 <br/>
 
@@ -53,4 +50,4 @@ This Slack workspace includes all courses of this specialization.
 
 <br/>
 
-Ibrahim Jelliti © 2020
+ © 2020
